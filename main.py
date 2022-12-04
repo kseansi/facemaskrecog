@@ -1,6 +1,4 @@
 async def on_startup(dp):
-
-
     print("Бот запущен")
 
 if __name__ == '__main__':
